@@ -25,7 +25,7 @@ To use “twota”, you must:
 3.1 Account Creation
 To use “twota”, you must create an account by providing honest, accurate, and complete information, including your name, age, gender, location, and preferences.
 3.2 Verification
-To keep our community safe, genuine, and access certain features, you must complete the verification process by submitting a clear, close-up selfie that meets Twota’s requirements. All users must complete profile verification within the first \'${DefaultOption().lastDaysForGettingVerification} days\'! If verification is not completed within this period, your account may be restricted or removed. The selfie must:
+To keep our community safe, genuine, and access certain features, you must complete the verification process by submitting a clear, close-up selfie that meets Twota’s requirements. All users must complete profile verification within the first \'14 days\'! If verification is not completed within this period, your account may be restricted or removed. The selfie must:
 ▪Be taken in good lighting with your face evenly lit.
 ▪Show your face clearly with the device at eye level.
 ▪Have your face centered in the frame.
